@@ -1,0 +1,14 @@
+C:\Visual Studios Code\Shoppinglistan\obj\Debug\net7.0\Shoppinglistan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studios Code\Shoppinglistan\obj\Debug\net7.0\Shoppinglistan.AssemblyInfoInputs.cache
+C:\Visual Studios Code\Shoppinglistan\obj\Debug\net7.0\Shoppinglistan.AssemblyInfo.cs
+C:\Visual Studios Code\Shoppinglistan\obj\Debug\net7.0\Shoppinglistan.csproj.CoreCompileInputs.cache
+C:\Visual Studios Code\Shoppinglistan\bin\Debug\net7.0\Shoppinglistan.exe
+C:\Visual Studios Code\Shoppinglistan\bin\Debug\net7.0\Shoppinglistan.deps.json
+C:\Visual Studios Code\Shoppinglistan\bin\Debug\net7.0\Shoppinglistan.runtimeconfig.json
+C:\Visual Studios Code\Shoppinglistan\bin\Debug\net7.0\Shoppinglistan.dll
+C:\Visual Studios Code\Shoppinglistan\bin\Debug\net7.0\Shoppinglistan.pdb
+C:\Visual Studios Code\Shoppinglistan\obj\Debug\net7.0\Shoppinglistan.dll
+C:\Visual Studios Code\Shoppinglistan\obj\Debug\net7.0\refint\Shoppinglistan.dll
+C:\Visual Studios Code\Shoppinglistan\obj\Debug\net7.0\Shoppinglistan.pdb
+C:\Visual Studios Code\Shoppinglistan\obj\Debug\net7.0\Shoppinglistan.genruntimeconfig.cache
+C:\Visual Studios Code\Shoppinglistan\obj\Debug\net7.0\ref\Shoppinglistan.dll
